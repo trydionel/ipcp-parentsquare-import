@@ -1,5 +1,9 @@
 # IPCP ParentSquare import tools
 
+## ParentSquare SFTP Data Sync instructions
+
+[Instructions from ParentSquare](https://parentsquare.zendesk.com/hc/en-us/articles/115002279443-Data-Upload-Sync-SFTP-Data-Sync)
+
 ## Process
 
 1. Collect latest reports from ProCare into one directory
